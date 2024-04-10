@@ -1,6 +1,13 @@
-p {
+h1 {
 	color: snow;
 	background: black;
 	font-weight: bold;
 	text-align: center;
 }
+p { 
+	color: green;
+	background: orange;
+	font-weight: none;
+	text-align: right;
+}
+.shadow-text { text-shadow: 2px 2px 4px #000000; }
